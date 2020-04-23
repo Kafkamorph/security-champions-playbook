@@ -11,7 +11,6 @@ product-specific workshops, engaging more and more people and making security
 "everyone's business", as it should be.
 
 
-I hope it was helpful to you and will be grateful if you submit your comments and proposals for improvement as issues or directly at _alexander[at]antukh.com_.
 
 
 [<< Previous page](6.%20Maintain%20interest.md) | [Main page](../README.md)
